@@ -13,7 +13,7 @@ const bilal={
     ['full-name']:'Bilal Kocoglu',
 };
 
-bilal.adres.il='Antalya';
+bilal.adres.il='İstanbul';
 console.log(bilal.adres.il);
 
 const ibrahim=createOgrenci('ibrahim',10,false,'itu');
